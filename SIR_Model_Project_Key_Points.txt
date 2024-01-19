@@ -1,0 +1,15 @@
+
+Project Key Points:
+- Simulation of an infectious disease spread in Bucharest.
+- Utilizes the Susceptible-Infected-Recovered (SIR) model.
+- Provides insights into the epidemiological dynamics of disease spread.
+
+Required Libraries:
+- numpy: For numerical operations and array handling.
+- scipy: Specifically scipy.integrate for solving differential equations.
+- matplotlib: For visualizing the data and simulation results.
+
+Important Notes:
+- The model parameters (initial conditions, transmission rate, recovery rate) can be adjusted to simulate different scenarios.
+- The simulation assumes a closed population without births, deaths (other than from the disease), or migration.
+- The results are theoretical and should be interpreted in the context of the model's simplifications and assumptions.
